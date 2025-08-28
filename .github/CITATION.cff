@@ -3,7 +3,8 @@ message: "If you use this project, please cite it as below."
 authors:
   - family-names: Yarko
     given-names: Vladislav
-title: "Vladislav-Yarko"
+title: "My Project Name"
 version: 1.0.0
 date-released: 2025-01-01
-url: "https://github.com/Vlasislav-Yarko/Vlasislav-Yarko"
+url: "https://github.com/vladyslav-yarko/my-project"
+license: "MIT"

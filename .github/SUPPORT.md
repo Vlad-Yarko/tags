@@ -2,7 +2,6 @@
 
 If you need help, here are the options:
 
-- 📖 Check the documentation: [Docs](https://example.com/docs)
-- 💬 Join our community chat: [Discord](https://discord.gg/example)
-- 🐞 Report bugs: Use the [Issue Tracker](../../issues)
-- ✉️ Contact us: support@example.com
+- 🐞 Report bugs: Open an issue on GitHub using the [Issue Tracker](https://github.com/vladyslav-yarko/your-repo/issues)
+- ✉️ Contact us: vladislavv44444@gmail.com
+- ❓ Ask questions: Use GitHub Discussions or forums if available

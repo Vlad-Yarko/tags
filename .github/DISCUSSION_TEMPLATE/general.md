@@ -5,10 +5,10 @@ labels: discussion
 ---
 
 ## Topic
-Write what you want to discuss.
+Write the main topic you want to discuss.
 
-## Details
-Explain more context, background, or examples.
+## Details (optional)
+Provide more context, background, examples, or links to help others understand.
 
-## Suggestions / Next steps
-(Optional) What could be done next?
+## Suggestions / Next steps (optional)
+What could be done next, or what feedback are you looking for?
